@@ -1,0 +1,10 @@
+-    Hi, I’m- @DeepakDeivasigamani,
+-    I’m interested in -Data Science,Python codings,Machine Learning outputs,
+-    I’m currently learning -B.Tech Artificial Intelligence and Data Science,
+-    I’m looking to collaborate on -Data Science projects,
+-    How to reach me -make a Mail  @ (   deepakd2020ai@gmail.com   ),
+-    Character of me -Puntual as I can...,Smart Worker,
+-    I'm Good   in learning a new skill like coding language,
+-    I'm Better in executing the output of my project,
+-    I'm Best   in "Leadership" and I know the difference between the Leader and the Boss,
+-    And these are the some lines about me👍...
