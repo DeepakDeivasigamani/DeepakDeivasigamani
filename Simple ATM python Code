@@ -1,0 +1,49 @@
+print("Welcome to NKL Bank ATM")
+print("PLEASE INSERT YOUR ATM CARD")
+print("Hi,Deepak Deivasigamani")
+print("Please do not Remove your Chip Card,Untill your Transaction is being completed")
+print("PLEASE ENTER any 4digit number")
+Pincode=int(input("Enter the 4 digit number given by NKL bank" ))
+if 1000<Pincode<=9999:
+    print(" 1.Change your ATM Pincode\n 2.Withdraw\n 3.Balance Inquiry")
+    choise=int(input())
+    if choise==1:
+      a=int(input("Enter your new pincode"))
+      a1=int(input("Re Enter your new pincode"))
+      if a==a1:
+         print("Your pincode has been changed Successfully")
+      else:
+         print("Pleasee check your new pin code")
+    
+    elif choise==2:
+      print("Please choose your option")
+      print(" 1.current account")
+      print("2.saving account")
+      b=int(input())
+      if b==1:
+            Amount=int(input("Enter the amount"))
+            print("processing...........")
+            print("Please collect your cash")
+      else:
+             Amount=int(input("Enter the amount"))
+             print("processing...........")
+             print("Please collect your cash")
+
+    elif choise==3:
+        print("Please select your option")
+        print(" 1.current account")
+        print("2.saving account")
+        c=int(input())
+        if c==1:
+          print("processing............")
+          print("Your balance in current account  is 50000")
+        else:
+           print("processing............")
+           print("Your balance in saving account is 11700")
+           print("     $$THANK YOU$$                    ")
+           print("     $$Visit Again$$                       ")
+else:
+    print("Your Pincode is incorrect")
+choise=int(input())
+    
+    
